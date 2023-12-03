@@ -835,6 +835,587 @@ export const questions = [
             "d) Quyền tổ chức thực hiện pháp luật"
         ],
         correctAnswer: "a) Quyền ban hành và triển khai thực hiện pháp luật"
+    },
+    {
+        question: "Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân pháp luật ra đời là?",
+        options: [
+            "a) Do có sự chia rẽ trong xã hội",
+            "b) Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội",
+            "c) Do thượng đế tạo ra",
+            "d) Do các thành viên trong xã hội ban hành"
+        ],
+        correctAnswer: "b) Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội"
+    },
+    {
+        question: "Pháp luật chƣa tồn tại trong xã hội nào?",
+        options: [
+            "a) Xã hội Phong kiến",
+            "b) Xã hội Cộng sản nguyên thủy",
+            "c) Xã hội Tư bản chủ nghĩa",
+            "d) Xã hội Chiếm hữu nô lệ"
+        ],
+        correctAnswer: "b) Xã hội Cộng sản nguyên thủy"
+    },
+    {
+        question: "Mối quan hệ giữa cộng đồng trong xã hội nguyên thủy đƣợc điều chỉnh bởi?",
+        options: [
+            "a) Tập quán",
+            "b) Tín điều tôn giáo",
+            "c) Pháp luật",
+            "d) Quy phạm xã hội"
+        ],
+        correctAnswer: "a) Tập quán"
+    },
+    {
+        question: "Nhận định nào sau đây đúng khi nghiên cứu về sự ra đời của pháp luật?",
+        options: [
+            "a) Pháp luật là những quy tắc xã hội được lưu truyền qua nhiều thế hệ",
+            "b) Nhà nước đã nâng tập quán từng tồn tại trở thành pháp luật",
+            "c) Giai cấp thống trị đã chọn lọc những quy phạm xã hội còn phù hợp và ban hành các quy định mới để trở thành pháp luật",
+            "d) Pháp luật ra đời là kết quả của cuộc tranh giành giữa các giai cấp"
+        ],
+        correctAnswer: "d) Pháp luật ra đời là kết quả của cuộc tranh giành giữa các giai cấp"
+    },
+    {
+        question: "Pháp luật là sản phẩm của?",
+        options: [
+            "a) Tôn giáo",
+            "b) Đảng phái chính trị",
+            "c) Đạo đức",
+            "d) Nhà nước"
+        ],
+        correctAnswer: "b) Đảng phái chính trị"
+    },
+    {
+        question: "Nhận định nào sau đây đúng khi bàn về sự ra đời của pháp luật?",
+        options: [
+            "a) Pháp luật ra đời do nhu cầu khách quan của xã hội mà không cần đến vai trò của Nhà nước",
+            "b) Pháp luật là sản phẩm của xã hội có giai cấp và đấu tranh giai cấp",
+            "c) Ý chí chủ quan của Nhà nước được nâng thành pháp luật",
+            "d) Pháp luật là sự thỏa hiệp về ý chí của mọi người trong xã hội"
+        ],
+        correctAnswer: "b) Pháp luật là sản phẩm của xã hội có giai cấp và đấu tranh giai cấp"
+    },
+    {
+        question: "Pháp luật là phƣơng tiện để khẳng định vai trò của giai cấp thống trị đối với toàn xã hội, đây là nội dung thể hiện?",
+        options: [
+            "a) Thuộc tính của pháp luật",
+            "b) Bản chất giai cấp của pháp luật",
+            "c) Bản chất của pháp luật",
+            "d) Bản chất xã hội của pháp luật"
+        ],
+        correctAnswer: "b) Bản chất giai cấp của pháp luật"
+    },
+    {
+        question: "Nhận định nào sau đây đúng khi bàn về bản chất của pháp luật?",
+        options: [
+            "a) Pháp luật mang bản chất giai cấp và bản chất xã hội",
+            "b) Pháp luật luôn chỉ phản ánh ý chí của giai cấp thống trị",
+            "c) Trong mọi chế độ xã hội, pháp luật là công cụ bảo vệ lợi ích của nhân dân",
+            "d) Bản chất giai cấp của pháp luật quan trọng hơn bản chất xã hội"
+        ],
+        correctAnswer: "a) Pháp luật mang bản chất giai cấp và bản chất xã hội"
+    },
+    {
+        question: "Nhận định nào sau đây sai khi bàn về bản chất của pháp luật?",
+        options: [
+            "a) Pháp luật mang bản chất giai cấp và bản chất xã hội",
+            "b) Pháp luật phản ánh ý chí của giai cấp thống trị, bảo vệ lợi ích của Nhà nước",
+            "c) Trong mọi chế độ xã hội, pháp luật là công cụ bảo vệ lợi ích của nhân dân",
+            "d) Tùy vào mỗi kiểu pháp luật khác nhau, bản chất giai cấp hay bản chất xã hội sẽ thể hiện rõ nét hơn"
+        ],
+        correctAnswer: "d) Tùy vào mỗi kiểu pháp luật khác nhau, bản chất giai cấp hay bản chất xã hội sẽ thể hiện rõ nét hơn"
+    },
+    {
+        question: "Nhà nƣớc ban hành pháp luật để điều chỉnh các quan hệ xã hội?",
+        options: [
+            "a) Chủ yếu, quan trọng",
+            "b) Điển hình, quan trọng",
+            "c) Cơ bản, phổ biến, điển hình",
+            "d) Tất cả các quan hệ xã hội"
+        ],
+        correctAnswer: "c) Cơ bản, phổ biến, điển hình"
+    },
+    {
+        question: "Tính quy phạm của pháp luật thể hiện giới hạn cần thiết để các chủ thể pháp luật tự do xử sự trong khuôn khổ Nhà nƣớc quy định, giới hạn đó xác định ở các khía cạnh sau?",
+        options: [
+            "a) Cho phép thực hiện",
+            "b) Cấm đoán thực hiện",
+            "c) Bắt buộc thực hiện",
+            "d) Bao gồm các đáp án"
+        ],
+        correctAnswer: "d) Bao gồm các đáp án"
+    },
+    {
+        question: "Nội dung nào sau đây phù hợp với tính quy phạm và phổ biến của pháp luật?",
+        options: [
+            "a) Phạm vi tác động của quy phạm xã hội rộng hơn so với pháp luật",
+            "b) Ai cũng cần phải thực hiện theo các tín điều tôn giáo được ban hành",
+            "c) Cơ quan có quyền ban hành pháp luật thì cũng có quyền không thực hiện pháp luật",
+            "d) Phạm vi tác động của pháp luật rộng lớn cả về không gian, thời gian và đối tƣợng áp dụng"
+        ],
+        correctAnswer: "d) Phạm vi tác động của pháp luật rộng lớn cả về không gian, thời gian và đối tƣợng áp dụng"
+    },
+    {
+        question: "Ƣu thế vƣợt trội của pháp luật so với các quy phạm xã hội khác là?",
+        options: [
+            "a) Tính cƣỡng chế",
+            "b) Tính rộng rãi",
+            "c) Tính xã hội",
+            "d) Tồn tại trong thời gian dài"
+        ],
+        correctAnswer: "a) Tính cƣỡng chế"
+    },
+    {
+        question: "Pháp luật ghi nhận các quan hệ xã hội chủ yếu và xác định quyền, nghĩa vụ pháp lý của các chủ thể trong quan hệ đó, thể hiện?",
+        options: [
+            "a) Chức năng điều chỉnh các quan hệ xã hội của pháp luật",
+            "b) Chức năng của pháp luật",
+            "c) Chức năng giáo dục của pháp luật",
+            "d) Nhiệm vụ của pháp luật"
+        ],
+        correctAnswer: "b) Chức năng của pháp luật"
+    },
+    {
+        question: "Nhận định nào sau đây sai khi đề cập đến chức năng của pháp luật?",
+        options: [
+            "a) Pháp luật bảo vệ tất cả các quan hệ xã hội",
+            "b) Pháp luật tác động đến các quan hệ xã hội chủ yếu, tạo hành lang pháp lý an toàn cho quan hệ xã hội đó tồn tại, phát triển",
+            "c) Chức năng giáo dục của pháp luật thể hiện tính răn đe đối với hành vi vi phạm pháp luật và phòng ngừa chung cho toàn xã hội",
+            "d) Không đáp án nào sai"
+        ],
+        correctAnswer: "d) Không đáp án nào sai"
+    },
+    {
+        question: "Ngƣời lao động đình công theo quy định pháp luật đòi tăng lƣơng, giảm giờ làm, thể hiện vai trò nào sau đây của pháp luật?",
+        options: [
+            "a) Pháp luật làm ổn định những quan hệ mới",
+            "b) Pháp luật là phương tiện để Nhà nước quản lý mọi mặt đời sống xã hội",
+            "c) Pháp luật là phƣơng tiện để bảo vệ các quyền, lợi ích hợp pháp của công dân",
+            "d) Pháp luật là cơ sở để tạo lập mối quan hệ đối ngoại"
+        ],
+        correctAnswer: "c) Pháp luật là phƣơng tiện để bảo vệ các quyền, lợi ích hợp pháp của công dân"
+    },
+    {
+        question: "Đề cập về mối quan hệ giữa pháp luật và Nhà nƣớc, khẳng định nào sau đây là sai?",
+        options: [
+            "a) Pháp luật và Nhà nước đều là hai yếu tố thuộc kiến trúc thượng tầng",
+            "b) Nhà nước và pháp luật có mối quan hệ tác động qua lại lẫn nhau",
+            "c) Nhà nƣớc đứng trên pháp luật vì Nhà nƣớc ban hành ra pháp luật",
+            "d) Pháp luật là phương tiện để tổ chức và thực hiện quyền lực Nhà nước"
+        ],
+        correctAnswer: "c) Nhà nƣớc đứng trên pháp luật vì Nhà nƣớc ban hành ra pháp luật"
+    },
+    {
+        question: "Đề cập về mối quan hệ giữa pháp luật và Nhà nƣớc, khẳng định nào sau đây là sai?",
+        options: [
+            "a) Pháp luật và Nhà nước có chung điều kiện ra đời, tồn tại, thay đổi và tiêu vong",
+            "b) Nhà nước và pháp luật có mối quan hệ tác động qua lại lẫn nhau theo hướng tích cực hoặc tiêu cực",
+            "c) Pháp luật đứng trên Nhà nƣớc vì nó là cơ sở pháp lý thừa nhận sự tồn tại của Nhà nƣớc",
+            "d) Tương ứng với mỗi kiểu Nhà nước thì có một kiểu pháp luật"
+        ],
+        correctAnswer: "d) Tương ứng với mỗi kiểu Nhà nước thì có một kiểu pháp luật"
+    },
+    {
+        question: "Pháp luật là công cụ bảo vệ lợi ích của?",
+        options: [
+            "a) Tổ chức tôn giáo",
+            "b) Giai cấp thống trị",
+            "c) Nhà nước và xã hội",
+            "d) Nhân dân"
+        ],
+        correctAnswer: "c) Nhà nước và xã hội"
+    },
+    {
+        question: "Đề cập về mối quan hệ giữa pháp luật và kinh tế, khẳng định nào sau đây là sai?",
+        options: [
+            "a) Đó là mối quan hệ giữa cơ sở thƣợng tầng và hạ tầng kiến trúc",
+            "b) Pháp luật tác động đến kinh tế theo hướng tích cực hoặc tiêu cực",
+            "c) Kinh tế giữ vai trò quyết định đối với pháp luật",
+            "d) Pháp luật có tính độc lập tương đối và tác động mạnh mẽ đến kinh tế"
+        ],
+        correctAnswer: "d) Pháp luật có tính độc lập tương đối và tác động mạnh mẽ đến kinh tế"
+    },
+    {
+        question: "Pháp luật công khai quy định về chế độ bóc lột nô lệ, thể hiện sự bất bình đẳng giữa chủ nô và nô lệ, đây là đặc điểm của kiểu pháp luật nào?",
+        options: [
+            "a) Pháp luật chủ nô",
+            "b) Pháp luật phong kiến",
+            "c) Pháp luật tư sản",
+            "d) Bao gồm các đáp án"
+        ],
+        correctAnswer: "d) Bao gồm các đáp án"
+    },
+    {
+        question: "Pháp luật quy định và bảo đảm thực hiện trên thực tế quyền tự do dân chủ của nhân dân; hạn chế sự bóc lột, bảo vệ quyền lợi của nhân dân. Đây là đặc điểm của kiểu pháp luật nào?",
+        options: [
+            "a) Pháp luật chủ nô",
+            "b) Pháp luật phong kiến",
+            "c) Pháp luật tư sản",
+            "d) Các đáp án đều sai"
+        ],
+        correctAnswer: "c) Pháp luật tư sản"
+    },
+    {
+        question: "Pháp luật quy định đẳng cấp trong xã hội và đặc quyền, đặc lợi của địa chủ, phong kiến. Đây là đặc trƣng của kiểu pháp luật nào?",
+        options: [
+            "a) Pháp luật chủ nô",
+            "b) Pháp luật phong kiến",
+            "c) Pháp luật tư sản",
+            "d) Pháp luật XHCN"
+        ],
+        correctAnswer: "b) Pháp luật phong kiến"
+    },
+    {
+        question: "Chọn phƣơng án đúng điền vào chỗ trống: .....là cách thức mà giai cấp thống trị sử dụng để nâng ý chí của giai cấp mình lên thành pháp luật?",
+        options: [
+            "a) Kiểu pháp luật",
+            "b) Hình thức pháp luật",
+            "c) Hình thức Nhà nước",
+            "d) Hình thức văn bản"
+        ],
+        correctAnswer: "a) Kiểu pháp luật"
+    },
+    {
+        question: "Kiểu pháp luật và hình thức pháp luật là hai khái niệm?",
+        options: [
+            "a) Giống nhau",
+            "b) Khác nhau",
+            "c) Đối lập nhau",
+            "d) Tương tự nhau"
+        ],
+        correctAnswer: "b) Khác nhau"
+    },
+    {
+        question: "Hiện nay Việt Nam áp dụng hình thức pháp luật nào?",
+        options: [
+            "a) Tập quán pháp",
+            "b) Văn bản luật",
+            "c) Văn bản quy phạm pháp luật",
+            "d) Án lệ pháp"
+        ],
+        correctAnswer: "c) Văn bản quy phạm pháp luật"
+    },
+    {
+        question: "Việc phân định kiểu pháp luật là dựa trên cơ sở?",
+        options: [
+            "a) Hình thái kinh tế - xã hội và bản chất Nhà nước",
+            "b) Hình thái kinh tế - xã hội",
+            "c) Kiểu Nhà nước",
+            "d) Hình thức Nhà nước"
+        ],
+        correctAnswer: "a) Hình thái kinh tế - xã hội và bản chất Nhà nước"
+    },
+    {
+        question: "Kiểu pháp luật	thể hiện rõ sự bất bình đẳng giữa hai cấp đối kháng trong xã hội, công khai thừa nhận nô lệ không phải là công dân, họ là tài sản của	?",
+        options: [
+            "a) Phong kiến - giai cấp địa chủ",
+            "b) Tư sản - giai cấp thống trị",
+            "c) Chủ nô - giai cấp phong kiến",
+            "d) Chủ nô - giai cấp chủ nô"
+        ],
+        correctAnswer: "a) Phong kiến - giai cấp địa chủ"
+    },
+    {
+        question: "Trong lịch sử xã hội đã tồn tại các hình thức pháp luật sau?",
+        options: [
+            "a) Tập quán pháp",
+            "b) Án lệ pháp",
+            "c) Tiền lệ pháp",
+            "d) Các đáp án đều sai."
+        ],
+        correctAnswer: "d) Các đáp án đều sai."
+    },
+    {
+        question: "Trong lịch sử xã hội đã tồn tại các hình thức pháp luật sau?",
+        options: [
+            "a) Tập quán pháp",
+            "b) Văn bản quy phạm pháp luật",
+            "c) Tiền lệ pháp",
+            "d) Bao gồm các đáp án"
+        ],
+        correctAnswer: "d) Bao gồm các đáp án"
+    },
+    {
+        question: "Hình thức Nhà nƣớc thừa nhận một số tập quán lƣu truyền trong xã hội và quy định thành cách xử sự chung là hình thức pháp luật nào sau đây?",
+        options: [
+            "a) Tập quán pháp",
+            "b) Văn bản quy phạm pháp luật",
+            "c) Tiền lệ pháp",
+            "d) Tiền lệ pháp và tập quán pháp"
+        ],
+        correctAnswer: "a) Tập quán pháp"
+    },
+    {
+        question: "Nhận định nào sau đây là sai khi đề cập về tập quán pháp?",
+        options: [
+            "a) Tập quán pháp là hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được Nhà nước bảo đảm thực hiện",
+            "b) Hình thức pháp luật xuất hiện sớm nhất là tập quán pháp",
+            "c) Tất cả các tập quán đều trở thành pháp luật",
+            "d) Hiện nay hình thức tập quán pháp được sử dụng hạn chế tại một số nước"
+        ],
+        correctAnswer: "c) Tất cả các tập quán đều trở thành pháp luật"
+    },
+    {
+        "question": "Tập quán pháp là hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được Nhà nước bảo đảm thực hiện",
+        "options": [
+            "a) Tập quán pháp là hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được Nhà nước bảo đảm thực hiện",
+            "b) Hình thức tập quán pháp đƣợc sử dụng nhiều trong Nhà nƣớc xã hội chủ nghĩa",
+            "c) Văn bản quy phạm pháp luật là hình thức pháp luật tiến bộ nhất",
+            "d) Hình thức tiền lệ pháp còn gọi là án lệ pháp"
+        ],
+        "correctAnswer": "a) Tập quán pháp là hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được Nhà nước bảo đảm thực hiện"
+    },
+
+    {
+        "question": "Việc Nhà nƣớc thừa nhận một số quyết định của cơ quan hành chính và cơ quan xét xử trƣớc đây làm mẫu để giải quyết các vụ việc tƣơng tự xảy ra về sau gọi là hình thức pháp luật nào?",
+        "options": [
+            "a) Luật lệ pháp",
+            "b) Tiền lệ pháp",
+            "c) Văn bản quy phạm pháp luật",
+            "d) Tương tự pháp"
+        ],
+        "correctAnswer": "b) Tiền lệ pháp"
+    },
+    {
+        "question": "Khẳng định nào sau đây sai khi đề cập về hình thức tiền lệ pháp?",
+        "options": [
+            "a) Tiền lệ pháp là hình thức Nhà nước thừa nhận một số quyết định của cơ quan hành chính và cơ quan xét xử trước đây làm mẫu để giải quyết các vụ việc tương tự xảy ra về sau",
+            "b) Hiện nay hình thức tiền lệ pháp đƣợc áp dụng phổ biến ở một số nƣớc nhƣ Anh, Mỹ, Việt Nam",
+            "c) Hạn chế của hình thức tiền lệ pháp là dễ tạo ra sự tùy tiện khi xử lý vi phạm",
+            "d) Việc áp dụng án lệ pháp phải tuân theo trình tự, thủ tục chặt chẽ"
+        ],
+        "correctAnswer": "c) Hạn chế của hình thức tiền lệ pháp là dễ tạo ra sự tùy tiện khi xử lý vi phạm"
+    },
+    {
+        "question": "Hình thức pháp luật này ngày càng đƣợc sử dụng rộng rãi ở các quốc gia vì nó khắc phục đƣợc những hạn chế của các hình thức pháp luật khác và có tính rõ ràng, cụ thể, đƣợc ban hành theo trình tự, thủ tục nhất định, đó là?",
+        "options": [
+            "a) Tiền lệ pháp",
+            "b) Văn bản quy phạm pháp luật",
+            "c) Văn bản luật",
+            "d) Tập quán pháp"
+        ],
+        "correctAnswer": "b) Văn bản quy phạm pháp luật"
+    },
+    {
+        "question": "Đáp án nào sau đây không thuộc kiểu pháp luật chủ nô?",
+        "options": [
+            "a) Bộ luật Hammurabi",
+            "b) Quốc triều hình luật",
+            "c) Bộ luật Manu",
+            "d) Luật Đôracông"
+        ],
+        "correctAnswer": "b) Quốc triều hình luật"
+    },
+    {
+        "question": "Trong các bộ luật nổi tiếng sau thuộc kiểu pháp luật chủ nô, bộ luật nào hoàn thiện nhất?",
+        "options": [
+            "a) Bộ luật Hammurabi của Nhà nƣớc CHNL Babilon",
+            "b) Bộ luật Manu của Nhà nước CHNL Ấn Độ",
+            "c) Luật mười hai bảng của Nhà nước CHNL La Mã",
+            "d) Luật Đôracông của Nhà nước CHNL Hy Lạp"
+        ],
+        "correctAnswer": "c) Luật mười hai bảng của Nhà nước CHNL La Mã"
+    },
+    {
+        "question": "Để bảo đảm cho pháp luật đƣợc tôn trọng và thực hiện, Nhà nƣớc có những biện pháp nào?",
+        "options": [
+            "a) Biện pháp về mặt kinh tế",
+            "b) Biện pháp về mặt tổ chức",
+            "c) Biện pháp cưỡng chế Nhà nước",
+            "d) Bao gồm các đáp án"
+        ],
+        "correctAnswer": "d) Bao gồm các đáp án"
+    },
+    {
+        "question": "Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+        "options": [
+            "a) Nghị quyết của Quốc hội",
+            "b) Quyết định của Chủ tịch nước",
+            "c) Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+            "d) Nghị quyết của Hội đồng nhân dân"
+        ],
+        "correctAnswer": "c) Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh"
+    },
+    {
+        "question": "Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+        "options": [
+            "a) Quyết định của Thủ tướng Chính phủ",
+            "b) Thông tư của Bộ trưởng Bộ Tài chính",
+            "c) Điều lệ Hội Cựu chiến binh",
+            "d) Nghị quyết Ủy ban Thường vụ Quốc hội"
+        ],
+        "correctAnswer": "c) Điều lệ Hội Cựu chiến binh"
+    },
+    {
+        "question": "Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+        "options": [
+            "a) Nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân Tối cao",
+            "b) Nghị quyết của Hội đồng nhân dân Tp. Hồ Chí Minh",
+            "c) Nghị quyết của Đảng Cộng sản",
+            "d) Nghị quyết Ủy ban Thường vụ Quốc hội"
+        ],
+        "correctAnswer": "c) Nghị quyết của Đảng Cộng sản"
+    },
+    {
+        "question": "Quy phạm pháp luật là quy tắc xử sự mang tính..... do ban hành và bảo đảm thực hiện, thể hiện ý chí và bảo vệ lợi ích của giai cấp thống trị để điều chỉnh các?",
+        "options": [
+            "a) Bắt buộc chung - Nhà nước - quan hệ pháp luật",
+            "b) Bắt buộc - Nhà nước - quan hệ xã hội",
+            "c) Bắt buộc chung - Quốc hội - quan hệ xã hội",
+            "d) Bắt buộc chung - Nhà nƣớc - quan hệ xã hội"
+        ],
+        "correctAnswer": "d) Bắt buộc chung - Nhà nƣớc - quan hệ xã hội"
+    },
+    {
+        "question": "Những quy tắc xử sự chung do Nhà nƣớc ban hành và bảo đảm thực hiện để điều chỉnh các quan hệ xã hội theo định hƣớng và nhằm đạt đƣợc những mục đích nhất định, các quy tắc đó gọi là?",
+        "options": [
+            "a) Quy phạm luật pháp",
+            "b) Vi phạm pháp luật",
+            "c) Quy phạm pháp luật",
+            "d) Văn bản pháp luật"
+        ],
+        "correctAnswer": "c) Quy phạm pháp luật"
+    },
+    {
+        "question": "Quy phạm pháp luật tồn tại trong xã hội nào?",
+        "options": [
+            "a) Xã hội có giai cấp",
+            "b) Xã hội có Nhà nước",
+            "c) Các đáp án đều đúng",
+            "d) Xã hội có tư hữu"
+        ],
+        "correctAnswer": "c) Các đáp án đều đúng"
+    },
+    {
+        "question": "Quy phạm pháp luật là?",
+        "options": [
+            "a) Quy tắc xử sự chung tồn tại từ xã hội nguyên thủy đến nay để điều chỉnh các quan hệ xã hội",
+            "b) Các quy phạm xã hội được lưu truyền từ xưa đến nay để điều chỉnh các quan hệ xã hội",
+            "c) Quy tắc được hình thành dựa trên nhận thức về các quy luật tự nhiên, điều chỉnh mối quan hệ giữa người và máy móc",
+            "d) Những quy tắc xử sự chung do Nhà nƣớc ban hành và bảo đảm thực hiện để điều chỉnh các quan hệ xã hội theo định hƣớng và nhằm đạt đƣợc những mục đích nhất định"
+        ],
+        "correctAnswer": "d) Những quy tắc xử sự chung do Nhà nƣớc ban hành và bảo đảm thực hiện để điều chỉnh các quan hệ xã hội theo định hƣớng và nhằm đạt đƣợc những mục đích nhất định"
+    },
+    {
+        "question": "Quy phạm pháp luật và quy phạm xã hội?",
+        "options": [
+            "a) Là hai khái niệm đồng nhất",
+            "b) Hoàn toàn giống nhau",
+            "c) Hoàn toàn khác nhau",
+            "d) Vừa có điểm giống nhau, vừa có điểm khác nhau"
+        ],
+        "correctAnswer": "d) Vừa có điểm giống nhau, vừa có điểm khác nhau"
+    },
+    {
+        "question": "Trong xã hội có giai cấp, quy phạm nào sau đây có vai trò quan trọng nhất đối với việc duy trì trật tự xã hội?",
+        "options": [
+            "a) Quy phạm tập quán",
+            "b) Quy phạm tôn giáo",
+            "c) Quy phạm pháp luật",
+            "d) Quy phạm đạo đức"
+        ],
+        "correctAnswer": "c) Quy phạm pháp luật"
+    },
+    {
+        "question": "Đặc điểm khác biệt nhất của quy phạm pháp luật so với các quy phạm xã hội khác là?",
+        "options": [
+            "a) Quy phạm pháp luật là quy tắc xử sự chung",
+            "b) Quy phạm pháp luật có tính hệ thống",
+            "c) Quy phạm pháp luật do các cơ quan Nhà nƣớc có thẩm quyền ban hành và bảo đảm thực hiện",
+            "d) Nội dung của quy phạm pháp luật quy định quyền và nghĩa vụ pháp lý của các bên tham gia quan hệ xã hội mà nó điều chỉnh"
+        ],
+        "correctAnswer": "a) Quy phạm pháp luật là quy tắc xử sự chung"
+    },
+    {
+        "question": "Cấu trúc pháp lý của một quy phạm pháp luật thông thƣờng gồm có các bộ phận?",
+        "options": [
+            "a) Giả định",
+            "b) Quy định",
+            "c) Chế tài",
+            "d) Bao gồm các đáp án"
+        ],
+        "correctAnswer": "d) Bao gồm các đáp án"
+    },
+    {
+        "question": "Chọn phƣơng án đúng nhất điền vào chỗ trống: .....của quy phạm pháp luật chứa đựng mệnh lệnh của Nhà nƣớc?",
+        "options": [
+            "a) Bộ phận giả định",
+            "b) Bộ phận quy định",
+            "c) Bộ phận chế tài",
+            "d) Bộ phận quy định và bộ phận chế tài"
+        ],
+        "correctAnswer": "d) Bộ phận quy định và bộ phận chế tài"
+    },
+    {
+        "question": "Những điều kiện, hoàn cảnh có thể xảy ra trong thực tế cuộc sống mà Nhà nƣớc dự liệu và dùng pháp luật tác động, đƣợc ghi nhận tại bộ phận..... của quy phạm pháp luật?",
+        "options": [
+            "a) Giả định",
+            "b) Giả thuyết",
+            "c) Quy định",
+            "d) Giả định và quy định"
+        ],
+        "correctAnswer": "d) Giả định và quy định"
+    },
+    {
+        "question": "Bộ phận nào sau đây không thể thiếu trong một quy phạm pháp luật?",
+        "options": [
+            "a) Bộ phận giả định và bộ phận chế tài",
+            "b) Bộ phận giả định",
+            "c) Bộ phận quy định",
+            "d) Bộ phận chế tài"
+        ],
+        "correctAnswer": "a) Bộ phận giả định và bộ phận chế tài"
+    },
+    {
+        "question": "Trong một quy phạm pháp luật, bộ phận quan trọng nhất là?",
+        "options": [
+            "a) Bộ phận quy định và bộ phận chế tài",
+            "b) Bộ phận giả định",
+            "c) Bộ phận quy định",
+            "d) Bộ phận chế tài"
+        ],
+        "correctAnswer": "a) Bộ phận quy định và bộ phận chế tài"
+    },
+    {
+        "question": "Bộ phận nào của quy phạm pháp luật nhằm bảo đảm cho pháp luật đƣợc thực hiện nghiêm chỉnh?",
+        "options": [
+            "a) Giả định",
+            "b) Quy định",
+            "c) Chế tài",
+            "d) Cả a, b, c đều đúng"
+        ],
+        "correctAnswer": "d) Cả a, b, c đều đúng"
+    },
+    {
+        "question": "Giới hạn Nhà nƣớc đƣa ra cho phép, cấm đoán, bắt buộc các chủ thể thực hiện hành vi hoặc tiến hành một công việc nhất định đƣợc ghi nhận tại bộ phận..... của quy phạm pháp luật?",
+        "options": [
+            "a) Giả định",
+            "b) Chế định",
+            "c) Quy định",
+            "d) Chế tài"
+        ],
+        "correctAnswer": "b) Chế định"
+    },
+    {
+        "question": "Giả định nêu lên nhiều điều kiện, hoàn cảnh và giữa chúng có mối liên hệ với nhau, gọi là?",
+        "options": [
+            "a) Giả định đơn giản",
+            "b) Giả định phức hợp",
+            "c) Giả định phức tạp",
+            "d) Giả thuyết phức tạp"
+        ],
+        "correctAnswer": "b) Giả định phức hợp"
+    },
+    {
+        "question": "Những biện pháp cƣỡng chế Nhà nƣớc dự liệu áp dụng đối với chủ thể không thực hiện đúng pháp luật đƣợc ghi nhận tại bộ phận..... của quy phạm pháp luật?",
+        "options": [
+            "a) Giả định",
+            "b) Quy định",
+            "c) Chế định",
+            "d) Chế tài"
+        ],
+        "correctAnswer": "d) Chế tài"
     }
-];
+]
 
