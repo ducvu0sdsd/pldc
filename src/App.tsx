@@ -8,14 +8,19 @@ function App() {
   const [start, setStart] = useState<boolean>(false)
   const numberOfQuestions = questions.length
 
-  const handleCheckCorrect = (answers: string, correct: string, index: number, e: any) => {
+  function getRandomElement<T>(array: T[]): T | undefined {
+    const randomIndex = Math.floor(Math.random() * array.length);
+    return array[randomIndex];
+  }
+
+  const handleCheckCorrect = (answers: string, correct: number, index: number, e: any, item: any) => {
     const ans = $('.ans-' + index)
-    const a = $('.' + correct.split(')')[0] + '-' + index)
+    const a = $('.' + item.options[correct - 1].split(')')[0] + '-' + index)
     if (ans && a) {
       ans.css('color', 'white')
       a.css('color', 'green')
       a.css('font-weight', 'bold')
-      if (answers === correct) {
+      if (answers === item.options[correct - 1]) {
         ans.css('background-color', 'green')
       } else {
         ans.css('background-color', 'red')
@@ -31,11 +36,11 @@ function App() {
           {questions.map((item, index) => {
             return (
               <div style={{ textAlign: 'start', paddingLeft: '30px', marginTop: '20px' }}>
-                <h3 className='question'>{item.question}</h3>
-                <p className={`a-${index}`} onClick={(e) => handleCheckCorrect(item.options[0], item.correctAnswer, index, e)} style={{ cursor: 'pointer' }}>{item.options[0]}</p>
-                <p className={`b-${index}`} onClick={(e) => handleCheckCorrect(item.options[1], item.correctAnswer, index, e)} style={{ cursor: 'pointer' }}>{item.options[1]}</p>
-                <p className={`c-${index}`} onClick={(e) => handleCheckCorrect(item.options[2], item.correctAnswer, index, e)} style={{ cursor: 'pointer' }}>{item.options[2]}</p>
-                <p className={`d-${index}`} onClick={(e) => handleCheckCorrect(item.options[3], item.correctAnswer, index, e)} style={{ cursor: 'pointer' }}>{item.options[3]}</p>
+                <h3 className='question'>{index + '. ' + item.question}</h3>
+                <p className={`a-${index}`} onClick={(e) => handleCheckCorrect(item.options[0], item.correctAnswer, index, e, item)} style={{ cursor: 'pointer' }}>{item.options[0]}</p>
+                <p className={`b-${index}`} onClick={(e) => handleCheckCorrect(item.options[1], item.correctAnswer, index, e, item)} style={{ cursor: 'pointer' }}>{item.options[1]}</p>
+                <p className={`c-${index}`} onClick={(e) => handleCheckCorrect(item.options[2], item.correctAnswer, index, e, item)} style={{ cursor: 'pointer' }}>{item.options[2]}</p>
+                <p className={`d-${index}`} onClick={(e) => handleCheckCorrect(item.options[3], item.correctAnswer, index, e, item)} style={{ cursor: 'pointer' }}>{item.options[3]}</p>
               </div>
             )
           })}
