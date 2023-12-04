@@ -36,7 +36,7 @@ function App() {
           {questions.map((item, index) => {
             return (
               <div style={{ textAlign: 'start', paddingLeft: '30px', marginTop: '20px' }}>
-                <h3 className='question'>{index++ + '. ' + item.question}</h3>
+                <h3 className='question'>{index + '. ' + item.question}</h3>
                 <p className={`a-${index}`} onClick={(e) => handleCheckCorrect(item.options[0], item.correctAnswer, index, e, item)} style={{ cursor: 'pointer' }}>{item.options[0]}</p>
                 <p className={`b-${index}`} onClick={(e) => handleCheckCorrect(item.options[1], item.correctAnswer, index, e, item)} style={{ cursor: 'pointer' }}>{item.options[1]}</p>
                 <p className={`c-${index}`} onClick={(e) => handleCheckCorrect(item.options[2], item.correctAnswer, index, e, item)} style={{ cursor: 'pointer' }}>{item.options[2]}</p>
